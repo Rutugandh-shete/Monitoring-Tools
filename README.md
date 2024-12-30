@@ -1,6 +1,6 @@
 # Prometheus and Grafana Setup Guide
 
-![Prometheus Logo](https://cdn.jsdelivr.net/gh/prometheus/prometheus/documentation/images/prometheus-logo.png)
+![Prometheus Logo](https://raw.githubusercontent.com/prometheus/docs/main/assets/prometheus-logo.png)
 
 ![Grafana Logo](https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg)
 
