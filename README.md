@@ -1,8 +1,8 @@
 # Prometheus and Grafana Setup Guide
 
-![Prometheus Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_Logo.svg/1200px-Prometheus_Logo.svg.png)
+![Prometheus Logo](https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.png)
 
-![Grafana Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Grafana_logo.svg/1200px-Grafana_logo.svg.png)
+![Grafana Logo](https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg)
 
 This guide provides step-by-step instructions to download and set up Prometheus and Grafana on your system.
 
